@@ -5,7 +5,7 @@ This was a webscraping excercise in which we used multiple tools including Splin
 ## Deliverable 1  Scrape Full-Resolution Mars Hemisphere Images and Titles
 This task required scraping the website to find and retrieve the links for the full images of the mars hemispheres as well as the title of the images. My code and the result is below.
 
-![Image_url code]()
+![Image_url code](https://github.com/LauraZJ/Mission_to_Mars/blob/main/Images/image_url_code.png)
 
 ## Deliverable 2: Update the Web App with Mars’s Hemisphere Images and Titles
 This task required updating the scraping and index files so that the mars hemisphere images would be added to the webpage.  The added images are:
